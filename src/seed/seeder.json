@@ -1,0 +1,310 @@
+[
+    {
+      "id": 1,
+      "image": "https://randomuser.me/api/portraits/women/90.jpg",
+      "name": {
+          "first":"Lisa",
+          "last":"Simpson"
+      },
+      "department": "Sales",
+      "email": "lissimp@email.com",
+      "phone": "555-321-2345"
+    },
+    {
+      "id": 2,
+      "image": "https://randomuser.me/api/portraits/men/90.jpg",
+      "name": {
+        "first":"Troy",
+        "last":"McGibbons"
+    },
+      "department": "Engineering",
+      "email": "troydog@email.com",
+      "phone": "555-012-3456"
+    },
+    {
+      "id": 3,
+      "image": "https://randomuser.me/api/portraits/women/77.jpg",
+      "name": {
+        "first":"Sandra",
+        "last":"Lopez"
+    },
+      "department": "Design",
+      "email": "salola@email.com",
+      "phone": "555-456-7890"
+    },
+    {
+      "id": 4,
+      "image": "https://randomuser.me/api/portraits/men/35.jpg",
+      "name": {
+        "first":"Tyler",
+        "last":"Durden"
+    },
+      "department": "Logistics",
+      "email": "projectmayhem@email.com",
+      "phone": "555-654-9876"
+    },
+    {
+      "id": 5,
+      "image": "https://randomuser.me/api/portraits/women/51.jpg",
+      "name": {
+        "first":"Kristen",
+        "last":"Stewart"
+    },
+      "department": "Marketing",
+      "email": "kikip@email.com",
+      "phone": "555-987-9876"
+    },
+    {
+      "id": 6,
+      "image": "https://randomuser.me/api/portraits/men/48.jpg",
+      "name": {
+        "first":"Ray",
+        "last":"Romano"
+    },
+      "department": "Management",
+      "email": "royro@email.com",
+      "phone": "555-435-6748"
+    },
+    {
+      "id": 7,
+      "image": "https://randomuser.me/api/portraits/women/66.jpg",
+      "name": {
+        "first":"Brenda",
+        "last":"Walsh"
+    },
+      "department": "Logistics",
+      "email": "90210@email.com",
+      "phone": "555-666-7766"
+    },
+    {
+      "id": 8,
+      "image": "https://randomuser.me/api/portraits/men/25.jpg",
+      "name": {
+        "first":"Booth",
+        "last":"Horvath"
+    },
+      "department": "Marketing",
+      "email": "booboo@email.com",
+      "phone": "555-223-4334"
+    },
+    {
+      "id": 9,
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "name": {
+        "first":"Jessa",
+        "last":"Robinson"
+    },
+      "department": "Sales",
+      "email": "jezebelish@email.com",
+      "phone": "555-451-9974"
+    },
+    {
+      "id": 10,
+      "image": "https://randomuser.me/api/portraits/men/99.jpg",
+      "name": {
+        "first":"Ira",
+        "last":"Glass"
+    },
+      "department": "Engineering",
+      "email": "tal@email.com",
+      "phone": "555-111-3322"
+    },
+    {
+      "id": 11,
+      "image": "https://randomuser.me/api/portraits/women/87.jpg",
+      "name": {
+        "first":"Andrea",
+        "last":"Russo"
+    },
+      "department": "Admin",
+      "email": "russ@email.com",
+      "phone": "555-110-1110"
+    },
+    {
+      "id": 12,
+      "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "name": {
+        "first":"Charles",
+        "last":"Barkley"
+    },
+      "department": "Design",
+      "email": "charles@email.com",
+      "phone": "555-001-0001"
+    },
+    {
+      "id": 13,
+      "image": "https://randomuser.me/api/portraits/women/39.jpg",
+      "name": {
+        "first":"Diana",
+        "last":"Cheddar"
+    },
+      "department": "Engineering",
+      "email": "didi@email.com",
+      "phone": "555-200-0002"
+    },
+    {
+      "id": 14,
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "name": {
+        "first":"Emerson",
+        "last":"Downing"
+    },
+      "department": "Engineering",
+      "email": "eme@email.com",
+      "phone": "555-201-1002"
+    },
+    {
+      "id": 15,
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "name": {
+        "first":"Frances",
+        "last":"Robinson"
+    },
+      "department": "Management",
+      "email": "fran@email.com",
+      "phone": "555-300-1003"
+    },
+    {
+      "id": 16,
+      "image": "https://randomuser.me/api/portraits/men/23.jpg",
+      "name": {
+        "first":"Gabriel",
+        "last":"Rodriguez"
+    },
+      "department": "Sales",
+      "email": "gabbagabba@email.com",
+      "phone": "555-301-1020"
+    },
+    {
+      "id": 17,
+      "image": "https://randomuser.me/api/portraits/women/23.jpg",
+      "name": {
+        "first":"Hannah",
+        "last":"Montana"
+    },
+      "department": "Design",
+      "email": "bananarama@email.com",
+      "phone": "555-333-1020"
+    },
+    {
+      "id": 18,
+      "image": "https://randomuser.me/api/portraits/men/44.jpg",
+      "name": {
+        "first":"Michael",
+        "last":"Scott"
+    },
+      "department": "Management",
+      "email": "thatswhatshesaid@email.com",
+      "phone": "555-633-1020"
+    },
+    {
+      "id": 19,
+      "image": "https://randomuser.me/api/portraits/women/42.jpg",
+      "name": {
+        "first":"Nancy",
+        "last":"Fey"
+    },
+      "department": "Marketing",
+      "email": "nanana@email.com",
+      "phone": "555-777-1020"
+    },
+    {
+      "id": 20,
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "name": {
+        "first":"Oscar",
+        "last":"Shindler"
+    },
+      "department": "Management",
+      "email": "oscar@email.com",
+      "phone": "555-777-7000"
+    },
+    {
+      "id": 21,
+      "image": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": {
+        "first":"Petula",
+        "last":"Morrison"
+    },
+      "department": "Design",
+      "email": "petulia@email.com",
+      "phone": "555-666-7000"
+    },
+    {
+      "id": 22,
+      "image": "https://randomuser.me/api/portraits/men/91.jpg",
+      "name": {
+        "first":"Quinn",
+        "last":"Sanders"
+    },
+      "department": "Sales",
+      "email": "quinnylover@email.com",
+      "phone": "555-666-8888"
+    },
+    {
+      "id": 23,
+      "image": "https://randomuser.me/api/portraits/women/91.jpg",
+      "name": {
+        "first":"Ursula",
+        "last":"Peterson"
+    },
+      "department": "Engineering",
+      "email": "ur@email.com",
+      "phone": "555-123-8888"
+    },
+    {
+      "id": 24,
+      "image": "https://randomuser.me/api/portraits/men/75.jpg",
+      "name": {
+        "first":"Victor",
+        "last":"Hugo"
+    },
+      "department": "Design",
+      "email": "hugs@email.com",
+      "phone": "555-666-1234"
+    },
+    {
+      "id": 25,
+      "image": "https://randomuser.me/api/portraits/women/75.jpg",
+      "name": {
+        "first":"Wanda",
+        "last":"Sikes"
+    },
+      "department": "Marketing",
+      "email": "sike@email.com",
+      "phone": "555-678-4000"
+    },
+    {
+      "id": 26,
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "name": {
+        "first":"Xavier",
+        "last":"Burns"
+    },
+      "department": "Engineering",
+      "email": "xman@email.com",
+      "phone": "555-321-3456"
+    },
+    {
+      "id": 27,
+      "image": "https://randomuser.me/api/portraits/women/54.jpg",
+      "name": {
+        "first":"Yolanda",
+        "last":"Rivera"
+    },
+      "department": "Sales",
+      "email": "yolo@email.com",
+      "phone": "555-765-1234"
+    },
+    {
+      "id": 28,
+      "image": "https://randomuser.me/api/portraits/men/54.jpg",
+      "name": {
+        "first":"Zach",
+        "last":"Morris"
+    },
+      "department": "Sales",
+      "email": "zakattack@email.com",
+      "phone": "555-800-8877"
+    }
+  ]
