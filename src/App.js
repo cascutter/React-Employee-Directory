@@ -7,8 +7,8 @@ import employees from "./seed/seeder.json";
 
 function App() {
   let [ searchTerm, setSearchTerm ] = useState("");
-  let [ sorted, setSorted] = useState(false);
-  let [ data, setEmployees] = useState(employees);
+  let [ sorted, setSorted ] = useState(false);
+  let [ data, setEmployees ] = useState(employees);
 
   function handleSearchTerm(event) {
     setSearchTerm(event.target.value)
@@ -34,13 +34,11 @@ function App() {
     }
   };
 
-  const filteredEmployees = data.filter(employee => employee.name.toLowerCase().startsWith(searchTerm.toLowerCase()));
+  let filteredEmployees = data.filter(employee => employee.name.toLowerCase().startsWith(searchTerm.toLowerCase()));
     return (
         <div>
             <Header/>
             <Layout>
-                <h1 className="title text-5xl text-gray-800 mt-16">Employee Directory</h1>
-                <p className="mb-16 text-md">Search for an employee by Name or sort by Name or Category.</p>
                 {/*the handleSearchTerm method and searchTerm state get passed down to the Navigation component via props with the onSearch and searchTerm props*/}
                 <Navigation
                     onSearch={handleSearchTerm}
