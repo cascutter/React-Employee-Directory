@@ -13,7 +13,7 @@
 # Description
 An employee directory created with React. With this application, a user is able to view the entire employee directory at once so that they have quick access to the employees' information. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. Employees can be searched by first name, or filtered in alphabetical order by first name in ascending or descending order, as well as filtered by department. 
 
-* <a href="https://cascutter.github.io/react-employee-directory/">Link to Deployed App on GitHb Pages.</a>
+* <a href="https://cascutter.github.io/react-employee-directory/">Link to Deployed App on GitHub Pages.</a>
 
 <img src="./src/assets/directory-screenshot.png">
     
