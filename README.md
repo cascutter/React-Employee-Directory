@@ -42,7 +42,7 @@ All questions regarding this application can be directed to:
 <a href="mailto:cascutter13@gmail.com">cascutter13@gmail.com</a>
     
 # Contributing Authors
-* Casandra Cutter (functionality)
+* Casandra Cutter
     
 # License
 ISC License
